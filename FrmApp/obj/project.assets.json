@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0-windows7.0": []
   },
   "packageFolders": {
     "C:\\Users\\z1772\\.nuget\\packages\\": {},
@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MY\\GDF\\GDF.csproj",
-      "projectName": "GDF",
-      "projectPath": "D:\\MY\\GDF\\GDF.csproj",
+      "projectUniqueName": "D:\\MY\\FrmApp2106052117\\FrmApp.csproj",
+      "projectName": "FrmApp",
+      "projectPath": "D:\\MY\\FrmApp2106052117\\FrmApp.csproj",
       "packagesPath": "C:\\Users\\z1772\\.nuget\\packages\\",
-      "outputPath": "D:\\MY\\GDF\\obj\\",
+      "outputPath": "D:\\MY\\FrmApp2106052117\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\z1772\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
@@ -32,15 +32,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net7.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
           "projectReferences": {}
         }
       },
@@ -51,8 +51,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -67,6 +67,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
