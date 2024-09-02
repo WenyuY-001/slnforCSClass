@@ -1,0 +1,14 @@
+D:\MY\GDF2106052117\bin\Debug\net7.0\GDF2106052117.exe
+D:\MY\GDF2106052117\bin\Debug\net7.0\GDF2106052117.deps.json
+D:\MY\GDF2106052117\bin\Debug\net7.0\GDF2106052117.runtimeconfig.json
+D:\MY\GDF2106052117\bin\Debug\net7.0\GDF2106052117.dll
+D:\MY\GDF2106052117\bin\Debug\net7.0\GDF2106052117.pdb
+D:\MY\GDF2106052117\obj\Debug\net7.0\GDF2106052117.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY\GDF2106052117\obj\Debug\net7.0\GDF2106052117.AssemblyInfoInputs.cache
+D:\MY\GDF2106052117\obj\Debug\net7.0\GDF2106052117.AssemblyInfo.cs
+D:\MY\GDF2106052117\obj\Debug\net7.0\GDF2106052117.csproj.CoreCompileInputs.cache
+D:\MY\GDF2106052117\obj\Debug\net7.0\GDF2106052117.dll
+D:\MY\GDF2106052117\obj\Debug\net7.0\refint\GDF2106052117.dll
+D:\MY\GDF2106052117\obj\Debug\net7.0\GDF2106052117.pdb
+D:\MY\GDF2106052117\obj\Debug\net7.0\GDF2106052117.genruntimeconfig.cache
+D:\MY\GDF2106052117\obj\Debug\net7.0\ref\GDF2106052117.dll
